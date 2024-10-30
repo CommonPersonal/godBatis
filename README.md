@@ -1,3 +1,2 @@
-大三自己跟着老杜手写的简单的mybatis框架
 godBatis项目包是手写框架的源码
 godBatis-test是测试框架有的代码
